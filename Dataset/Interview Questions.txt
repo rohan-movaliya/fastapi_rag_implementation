@@ -1,0 +1,52 @@
+***HR ROUND***
+
+1) TELL ME ABOUT YOURSELF / INTRODUCE YOURSELF.
+
+My name is Rohan Movaliya. I'm originally from Junagadh and now live in Ahmedabad. I am pursuing a B.Tech degree in IT at Silver Oak University. With a strong foundation in Python development, I have applied my skills as a Python Developer at Bizzappdev Systems Pvt. Ltd., where I have worked on a few projects that helped me gain technical skills and practical experience. I consider myself hard-working and self-motivated. My short-term goal is to secure a position where I can continue to grow my technical skills. In the long term, I aim to hold a significant position within the same company, making meaningful contributions and making my parents proud.
+
+
+
+
+
+2) WHAT ARE YOUR STRENGTHES AND WEAKNESSES?
+
+My time management skills are exceptional; I am well-organized, efficient, and systematic. I take pride in excelling at my job. One of my key strengths is my commitment to tasks. I believe in seeing things through from start to finish, ensuring that deadlines are met and objectives are achieved.
+
+My weakness is that I overthink before doing any task because I want to do everything perfectly.
+
+
+
+
+
+3) WHERE DO YOU SEE YOURSELF IN THE NEXT FIVE YEARS?
+In five years, I see myself as an important part of this organization, having grown in my role and contributing to the company's success. I want to improve my skills by mentioning specific skills relevant to the job and taking on more responsibilities, working with my team to reach our goals. I would like to see myself as an experienced, mature, and responsible person in your company.
+
+
+
+
+4) Explain your Projects.
+
+During my internship, I worked on an 'Automotive Service Management system using the Python framework Odoo. I developed features for vehicle service tracking, parts inventory management, and customer appointment scheduling. The backend was built using Python, with PostgreSQL for database management, while the front-end customization was done using XML and HTML.
+
+I developed a basic 'Amazon Price Tracker' using Python and web scraping libraries such as BeautifulSoup, Lxml, and Requests. The project monitors product prices on Amazon and sends notifications when the price drops below a specified budget. It was a simple project that helped me get hands-on experience with web scraping techniques and Python automation.
+
+I developed a 'Multiple Disease Prediction' app using machine learning and deployed it with Streamlit. Users can enter their health information, and the app predicts the chances of having different diseases. I used machine learning algorithms like logistic regression, SVM, and XGBoost for predictions
+
+I recently completed a project on predicting potato plant diseases using machine learning. The app analyzes images of potato leaves and predicts if they have any diseases. I'm now expanding this project to include predictions for other plants like maize, apple, grapes, and blueberry. For both parts, I used Python with libraries like NumPy, Pandas, TensorFlow/Keras, and Streamlit for the user interface.
+
+
+5) What do you know about your company?
+
+Tridhya Tech is a software development company that provides services in web and mobile app development, AI, and IoT. They help businesses create a strong digital presence by offering solutions in digital experience, cloud services, and data analytics, with clients from industries like e-commerce, logistics, and real estate.
+
+I'm excited about the opportunity to contribute to Tridhya Tech's innovative projects. With my expertise in Python programming, AI/ML, and web development, I look forward to collaborating on solutions that drive business growth and enhance digital experiences.
+
+
+
+
+
+
+
+
+
+

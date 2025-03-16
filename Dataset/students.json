@@ -1,0 +1,15 @@
+{
+    "students": [
+      {
+        "name": "Bhargav Karkar",
+        "age": 21,
+        "course": "Automation Engineer"
+      },
+      {
+        "name": "Kartik Sojitra",
+        "age": 22,
+        "course": "IT Engineer"
+      }
+    ]
+  }
+  
